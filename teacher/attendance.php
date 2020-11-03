@@ -121,7 +121,7 @@
 	<script type = "text/javascript">
 		$(document).ready(function(){
 			$('.ratt_id').click(function(){
-				$student_id = $(this).attr('name');
+				$att_id = $(this).attr('name');
 				$('.remove_id').click(function(){
 					window.location = 'delete_attendance.php?att_id=' + $att_id;
 				});
