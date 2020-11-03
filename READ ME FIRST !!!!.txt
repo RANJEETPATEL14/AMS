@@ -1,0 +1,39 @@
+                            
+
+			: : : : : LOGIN DETAILS : : : : : 
+
+	For " ADMIN " login provide the given username and password
+	username : admin
+	Password : admin
+
+
+	For " Teacher " login provide the given username and password
+	Teacher ID : 201852000  
+	Passoword : 201852000
+
+
+	For " Student " login provide the given username and password
+	username : 201852025
+	Password : 201852025
+
+	
+			: : : : : PROJECT DETAILS : : : : 
+
+	Admin Module:
+	Admin can add, remove or edit teacher,student,course.
+	Admin can update their profile also.
+
+	Teacher Module:
+	Teacher can see, add, remove or edit attendance of all student.
+	Teacher can update their profile also.
+	
+	Student Module:
+	Student can see their attendance.
+	Student can edit update profile also.
+
+	PHP language is used for completing this project. 
+	For Database you have to create a database (DATABASE NAME:- ams).
+        In which You to put the Database/ams.sql file
+
+
+						#THANK YOU 
